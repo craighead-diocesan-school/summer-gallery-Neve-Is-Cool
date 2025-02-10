@@ -4,3 +4,10 @@
     <h2 class="subtitle">Welcome to my site</h2>
   </div>
 </header>
+
+<style>
+  header {
+    background: rgb(45, 67, 42);
+    color: azure;
+  }
+</style>
