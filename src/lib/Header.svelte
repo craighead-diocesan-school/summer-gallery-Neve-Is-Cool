@@ -8,6 +8,13 @@
 <style>
   header {
     background: rgb(45, 67, 42);
-    color: azure;
+  }
+
+  .title {
+    color: aliceblue;
+  }
+
+  .subtitle {
+    color: beige;
   }
 </style>
