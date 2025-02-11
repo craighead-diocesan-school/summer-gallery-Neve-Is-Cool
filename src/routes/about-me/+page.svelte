@@ -9,9 +9,11 @@
 <Nav />
 
 <main>
-  <h2>About me</h2>
+  <section class="about-me">
+    <h2>About me</h2>
 
-  <p>Details about me</p>
+    <p>Details about me</p>
+  </section>
 </main>
 
 <Footer />

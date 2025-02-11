@@ -6,15 +6,18 @@
 </header>
 
 <style>
-  header {
+  .hero {
     background: rgb(45, 67, 42);
   }
 
   .title {
     color: aliceblue;
+    font-weight: bold;
+    font-size: xx-large;
   }
 
   .subtitle {
     color: beige;
+    font-size: x-large;
   }
 </style>
