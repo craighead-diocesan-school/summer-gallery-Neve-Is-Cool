@@ -9,9 +9,9 @@
 <Nav />
 
 <main>
-  <h2>SvelteKit</h2>
+  <h2>About me</h2>
 
-  <p>Welcome to coding with SvelteKit, a modern JavaScript framework that makes it easy to code great apps.</p>
+  <p>Details about me</p>
 </main>
 
 <Footer />
