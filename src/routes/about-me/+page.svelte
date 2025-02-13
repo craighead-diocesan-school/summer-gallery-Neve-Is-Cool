@@ -2,6 +2,7 @@
   import Header from "$lib/Header.svelte"
   import Footer from "$lib/Footer.svelte"
   import Nav from "$lib/Nav.svelte"
+  import Card from "$lib/Card.svelte"
 </script>
 
 <Header />
@@ -12,9 +13,11 @@
   <section class="about-me">
     <h2>About me</h2>
 
-    <p>Details about me</p>
+    <p>Hi I'm Neve and I am taking level 2 digi.</p>
   </section>
 </main>
+
+<Card />
 
 <Footer />
 

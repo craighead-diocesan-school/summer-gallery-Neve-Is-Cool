@@ -1,7 +1,8 @@
 <div class="card">
   <div class="card-image">
-    <figure class="image is-4by3">
-      <img src="https://bulma.io/images/placeholders/1280x960.png" />
+    <figure class="image">
+      <img src="/Vineyard.jpg" />
+      <img src="Aus.jpg" />
     </figure>
   </div>
   <!-- .card-image -->
@@ -10,7 +11,7 @@
     <div class="media">
       <div class="media-left">
         <figure class="image is-48x48">
-          <img src="https://bulma.io/images/placeholders/96x96.png" />
+          <img src="/New-years.JPG" />
         </figure>
       </div>
 
@@ -21,11 +22,16 @@
     </div>
     <!-- .media -->
 
-    <div class="content">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris. <a>@bulmaio</a>.
-    </div>
+    <div class="content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.</div>
     <!-- .content -->
   </div>
   <!-- .card-content -->
 </div>
+
 <!-- .card -->
+
+<style>
+  .card {
+    background-color: rgb(192, 214, 189);
+  }
+</style>
