@@ -2,7 +2,7 @@
   <div class="card-image">
     <figure class="image">
       <img src="/Vineyard.jpg" />
-      <img src="Aus.jpg" />
+      <img src="View.jpg" />
     </figure>
   </div>
   <!-- .card-image -->
@@ -33,5 +33,13 @@
 <style>
   .card {
     background-color: rgb(192, 214, 189);
+  }
+
+  .card-image {
+    width: 50%;
+  }
+
+  .image {
+    display: flex;
   }
 </style>
