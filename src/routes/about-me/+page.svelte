@@ -5,7 +5,7 @@
   import Card from "$lib/Card.svelte"
 </script>
 
-<Header />
+<Header title="About me" subtitle="And my Card" />
 
 <Nav />
 
@@ -19,7 +19,7 @@
 
 <Card />
 
-<Footer />
+<Footer author="Neve Gaffaney" date="2024" link="https://www.craighead.school.nz/" organisation="Craighead Diocesan School" />
 
 <style>
   main {

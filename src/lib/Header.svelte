@@ -1,7 +1,12 @@
+<script>
+  export let title = "Main heading"
+  export let subtitle = "Secondary heading"
+</script>
+
 <header class="hero">
   <div class="hero-body">
-    <h1 class="title">Welcome</h1>
-    <h2 class="subtitle">Welcome to my site</h2>
+    <h1 class="title">{title}</h1>
+    <h2 class="subtitle">{subtitle}</h2>
   </div>
 </header>
 

@@ -1,8 +1,8 @@
 <div class="card">
   <div class="card-image">
     <figure class="image">
-      <img src="/Vineyard.jpg" />
-      <img src="View.jpg" />
+      <img src="/Vineyard.jpg" alt="Neve standing in front of a vineyard" />
+      <img src="View.jpg" alt="a sunrise" />
     </figure>
   </div>
   <!-- .card-image -->
@@ -11,7 +11,7 @@
     <div class="media">
       <div class="media-left">
         <figure class="image is-48x48">
-          <img src="/New-years.JPG" />
+          <img src="Aus.jpg" alt="Neve with cousin" />
         </figure>
       </div>
 

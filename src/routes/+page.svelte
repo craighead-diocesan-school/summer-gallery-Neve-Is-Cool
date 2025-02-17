@@ -2,9 +2,10 @@
   import Header from "$lib/Header.svelte"
   import Footer from "$lib/Footer.svelte"
   import Nav from "$lib/Nav.svelte"
+  import Image from "$lib/Image.svelte"
 </script>
 
-<Header />
+<Header title="Summer Gallery" subtitle="Images from summer" />
 
 <Nav />
 <h2>Subheading about the main content</h2>
@@ -21,7 +22,11 @@
   <p>Quisque id velit arcu. Duis gravida efficitur tincidunt. Pellentesque mattis consequat pellentesque. Integer blandit mollis lectus, sed porta elit pharetra non. Sed nec faucibus mauris. Donec bibendum eros ac justo vestibulum, aliquam vehicula tortor malesuada. Vestibulum vitae risus sagittis, dignissim odio non, tempus est.</p>
 </main>
 
-<Footer />
+<Image src="New-years.JPG" alt="Neve with friends on New Year's Eve" caption="New Year's Eve with friends" />
+<Image src="New-years.JPG" alt="Neve with friends on New Year's Eve" caption="New Year's Eve with friends" />
+<!--Comment -- change images to what hasn;t beeen used.-->
+
+<Footer author="Neve Gaffaney" date="2024" link="https://www.craighead.school.nz/" organisation="Craighead Diocesan School" />
 
 <style>
   main {

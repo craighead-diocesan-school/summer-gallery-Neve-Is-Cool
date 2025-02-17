@@ -1,5 +1,13 @@
+<script>
+  export let author
+  export let date
+  export let organisation
+  export let link
+</script>
+
 <footer>
-  <p>&copy; Neve Gaffaney 2024</p>
+  <p>&copy;{author} {date}</p>
+  <a href={link}>{organisation}</a>
 </footer>
 
 <style>
