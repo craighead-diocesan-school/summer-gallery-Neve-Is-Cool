@@ -17,8 +17,8 @@
     background-color: rgb(192, 214, 189);
   }
 
-  img {
-    width: 50%;
+  .image {
+    width: 45vw;
   }
 
   figcaption {

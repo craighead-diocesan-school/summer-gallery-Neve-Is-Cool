@@ -5,30 +5,37 @@
   import Image from "$lib/Image.svelte"
 </script>
 
-<Header title="Summer Gallery" subtitle="Images from summer" />
+<Header title="Summer Gallery" subtitle="My summer and some pictures" />
 
 <Nav />
-<h2>Subheading about the main content</h2>
+<h2>My Summer 2025!!</h2>
 
 <main>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum suscipit eget diam ut pharetra. Duis euismod odio a elit interdum consectetur sit amet a nulla. Integer a venenatis nibh. Maecenas vitae faucibus turpis. Praesent gravida vulputate nisi at bibendum. Cras ac eros et felis aliquet interdum. Nullam blandit leo sit amet risus laoreet, quis ullamcorper dui efficitur. Mauris vestibulum libero lectus, sit amet sagittis velit maximus quis. Pellentesque nec leo nec urna convallis elementum vel quis eros.</p>
+  <p>My summer was good, although it passed very quickly. After I completed my exams, my year level was given a week off of school, which worked out perfectly for me. This is because I had planned since the beginning of the year to go to Australia from the Thursday of my week off to the following Monday. On the Monday night, I had a celebration with my friends for finishing exams at Zoe’s, and on Wednesday I went to Christchurch. On Thursday I went to Australia in the early morning. In Australia, it was my uncle's 50th birthday celebrations, I spent time with my cousins, and I got lots of my Christmas shopping done.</p>
 
-  <p>Etiam nec sapien a tellus bibendum tempus. Vivamus interdum hendrerit dui non lobortis. Praesent commodo condimentum tortor eget consequat. Duis eget vehicula nulla. Donec iaculis nunc molestie, commodo eros et, fermentum turpis. Pellentesque est purus, vestibulum ut blandit eu, hendrerit non sem. Suspendisse velit justo, cursus sit amet auctor ut, gravida a metus. Cras vitae commodo felis, maximus lacinia quam. Suspendisse auctor ex non condimentum mollis. Phasellus dictum lacinia ligula vitae facilisis. Nunc posuere metus non tellus ultricies, et ultrices tellus feugiat. Nullam sed neque non augue molestie tristique eget a libero. Curabitur eget velit non sem ultrices consequat et a sapien. Nullam accumsan velit massa, a fringilla magna maximus at. Proin nisl sem, lacinia eu sollicitudin vitae, dignissim a ipsum. Nulla sit amet faucibus nisl.</p>
+  <p>The Legitimate holidays started the week after because school had finished. In December, I did not achieve much. The weather was almost always horrendous, and so if I wasn’t hanging out with my friends, I wasn’t doing much else. Christmas was good, but we had it a day early because my brother had shift work on Christmas day, which was a bit odd.</p>
 
-  <p>Nullam molestie semper elementum. Curabitur vitae nibh gravida, lobortis mauris in, sodales massa. Cras eu nulla nec urna consequat pharetra et in quam. Praesent dignissim orci at nisi aliquet malesuada. Curabitur in ligula vel massa ullamcorper hendrerit et a risus. Donec purus elit, luctus quis gravida id, maximus eu mi. Ut quis mollis lorem, eget faucibus risus. Quisque varius metus ut massa luctus viverra. Maecenas sit amet elit mattis, placerat lectus semper, hendrerit purus. Phasellus justo urna, vestibulum feugiat finibus sed, sagittis ac tortor. Donec in dolor bibendum, ultrices sem nec, laoreet ex. Integer faucibus eros sapien, et rutrum tellus luctus sed. Cras sit amet vulputate lorem.</p>
+  <p>The period between Christmas day and New Year’s was both calming and confusing, I never knew what day it was, how long it had been since anything, and I lived watching movies on my couch. On the 29th, I went with my parents and my friend Zara, and spent way too much money, as I kept using my card and continued forgetting about my vouchers and cash from Christmas. Then after spending the night in Christchurch, we drove home and Zara stayed at mine for another night before being picked up the next day. New Year’s was just a nice evening with some friends having dinner at mine and then we went to the bay. We were in a line for a ride when the new year came.</p>
 
-  <p>Cras pellentesque sagittis neque a lacinia. Duis eu faucibus nunc. Cras ullamcorper, purus ac cursus iaculis, turpis ligula dictum leo, id tincidunt sapien quam vitae nulla. Nulla facilisis eu nisi ac aliquam. Cras id erat eleifend justo tristique malesuada. Quisque id nisi dolor. Vestibulum enim tortor, finibus ut dui ut, dignissim elementum dui. Fusce interdum neque nec orci laoreet molestie.</p>
+  <p>In the new year, I started a Harvard Cs50x computer science course, and that took up most of my spare time. It was then Ruby’s birthday which was lots of fun and there were a lot of people. It was nice to see all my friends since the new year. If you have ever seen the TV show Severance, my entire family loves it, and because of the new release of season 2, an episode at a time, we (my family and my brother's girlfriend) all dressed up as characters from the show and had a viewing party. I also worked a lot during this time, for nearly a week straight, and was even given the responsibility to open up the cafe for the first time.</p>
 
-  <p>Quisque id velit arcu. Duis gravida efficitur tincidunt. Pellentesque mattis consequat pellentesque. Integer blandit mollis lectus, sed porta elit pharetra non. Sed nec faucibus mauris. Donec bibendum eros ac justo vestibulum, aliquam vehicula tortor malesuada. Vestibulum vitae risus sagittis, dignissim odio non, tempus est.</p>
+  <p>I then went to Twizel which is where my grandparents were at the time. I spent two nights in Twizel and then got up early the next day to go to Cromwell. In Twizel, I went to Lake Ohau three times in the span of one day. In Cromwell, my dad, brother and I did the highlands go karting, and then we went to Mt Difficulty Vineyard as a celebration of our work throughout the year. After spending a night in Cromwell, my brother and I drove back to Twizel to pick up our stuff and then drove home the same day. This was a very long trip, and so we decided to make him a playlist for his upcoming 18th party. That evening I had Lucy’s birthday party which was a lot of fun, and I then worked for the remainder of the holidays.</p>
 </main>
 
-<Image src="New-years.JPG" alt="Neve with friends on New Year's Eve" caption="New Year's Eve with friends" />
-<Image src="New-years.JPG" alt="Neve with friends on New Year's Eve" caption="New Year's Eve with friends" />
-<!--Comment -- change images to what hasn;t beeen used.-->
+<div>
+  <Image src="New-years.JPG" alt="Neve with friends on New Year's Eve" caption="New Year's Eve with friends" />
+  <Image src="Zoe's.JPG" alt="Neve with friends at a friends house" caption="Zoe's with lots of friends" />
+</div>
 
 <Footer author="Neve Gaffaney" date="2024" link="https://www.craighead.school.nz/" organisation="Craighead Diocesan School" />
 
 <style>
+  div {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(192, 214, 189);
+  }
+
   main {
     background: rgb(192, 214, 189);
     text-align: center;
