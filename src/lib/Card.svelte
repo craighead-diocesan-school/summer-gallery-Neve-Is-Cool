@@ -11,7 +11,7 @@
     <div class="media">
       <div class="media-left">
         <figure class="image is-48x48">
-          <img src="/Aus.jpg" alt="Neve with cousin" />
+          <img class="image is-rounded" src="/Aus.jpg" alt="Neve with cousin" />
         </figure>
       </div>
 
