@@ -43,13 +43,13 @@
 
   main {
     background: rgb(192, 214, 189);
-    text-align: center;
+    text-align: left;
     padding: 20px;
   }
 
   h2 {
     background: rgb(192, 214, 189);
-    font-size: large;
+    font-size: x-large;
     font-weight: bold;
     padding-left: 70px;
     color: rgb(45, 67, 42);
@@ -62,8 +62,6 @@
   }
 
   label {
-    background: rgb(192, 214, 189);
-    text-align: center;
-    padding: 20px;
+    padding: 30px;
   }
 </style>
