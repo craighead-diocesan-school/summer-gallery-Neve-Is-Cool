@@ -45,7 +45,7 @@
   p {
     margin-bottom: 20px;
     color: rgb(45, 67, 42);
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 7%;
+    margin-right: 7%;
   }
 </style>

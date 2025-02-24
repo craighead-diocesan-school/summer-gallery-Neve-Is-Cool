@@ -13,12 +13,12 @@
 
 <style>
   figure {
-    padding: 20px;
+    padding: 4%;
     background-color: rgb(192, 214, 189);
   }
 
   .image {
-    width: 45vw;
+    width: 40vw;
   }
 
   figcaption {

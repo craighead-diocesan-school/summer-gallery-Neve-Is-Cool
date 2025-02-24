@@ -10,12 +10,12 @@
 <Nav />
 <h2>My Summer 2025!!</h2>
 
-<label class="checkbox">
-  <input type="checkbox" />
-  I agree to the fact that <a href="https://www.craighead.school.nz/">Neve is and will always be awesome</a>
-</label>
-
 <main>
+  <label class="checkbox">
+    <input type="checkbox" />
+    I agree to the fact that <a href="https://www.craighead.school.nz/">Neve is and will always be awesome</a>
+  </label>
+
   <p>My summer was good, although it passed very quickly. After I completed my exams, my year level was given a week off of school, which worked out perfectly for me. This is because I had planned since the beginning of the year to go to Australia from the Thursday of my week off to the following Monday. On the Monday night, I had a celebration with my friends for finishing exams at Zoe’s, and on Wednesday I went to Christchurch. On Thursday I went to Australia in the early morning. In Australia, it was my uncle's 50th birthday celebrations, I spent time with my cousins, and I got lots of my Christmas shopping done.</p>
 
   <p>The Legitimate holidays started the week after because school had finished. In December, I did not achieve much. The weather was almost always horrendous, and so if I wasn’t hanging out with my friends, I wasn’t doing much else. Christmas was good, but we had it a day early because my brother had shift work on Christmas day, which was a bit odd.</p>
